@@ -111,6 +111,9 @@ function previousQuestion() {
   if (currentQuestion > 0 ) {
     currentQuestion--;
     showQuestion(currentQuestion);
+  } else if (currentQuestion === -1){
+    currentQuestion = Questions.length - 1;
+    showQuestion(currentQuestion);
   }
 }
 
