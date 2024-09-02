@@ -1,5 +1,5 @@
-# 8th Grade Math Writing Equations Examples
+# 8th Grade Math Writing Inequalities Examples
 
-- https://methodsofmath.github.io/write-equations-8th-math/
+- https://methodsofmath.github.io/write-inequalities-8th-math/
 - Click the underlined words to see how the equation is written.
 
